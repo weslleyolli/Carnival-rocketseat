@@ -32,7 +32,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/weslleyolli/Carnival-rocketseat
-$ cd nlw-setup-ignite
+$ cd carnival-rocketseat
 ```
 
 Follow the steps below:
